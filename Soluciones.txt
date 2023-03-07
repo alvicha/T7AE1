@@ -32,3 +32,8 @@ e. 10011111.01001011.00111111.00101011
 #8. Se tiene una dirección IP 172.17.111.0 máscara 255.255.254.0, ¿cuantas
 subredes y cuantos host validos habrá por subred?
 Respuesta: b. 128 subredes con 510 hosts
+
+
+#8-2. Se tiene una dirección IP 192.100.100.128 máscara 255.255.255.254,
+¿cuántas subredes y cuantos host validos habrá por subred?
+Respuesta: e. Ninguna de las respuestas es correcta.
