@@ -3,3 +3,10 @@ Con un mínimo de 1000 hosts por subred. Se proyecta un crecimiento en los
 próximos años de un total de 55 subredes.
 ¿Qué máscara de subred se deberá utilizar?
 Respuesta: C. 255.255.252.0
+
+
+#2 . Usted planea la migración de 100 ordenadores de IPX/SPX a TCP/IP y que
+puedan establecer conectividad con Internet. Su ISP le ha asignado la dirección IP
+192.168.16.0/24. Se requieren 10 Subredes con 10 hosts cada una. ¿Qué máscara
+de subred debe utilizarse?
+Respuesta: C. 255.255.255.240
