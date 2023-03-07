@@ -69,3 +69,8 @@ Respuesta: d. 255.255.255.0
 #16. A partir de la dirección IP 192.168.85.129 /26 , ¿Cuál es la dirección de
 subred y de broadcast a la que pertenece el host?
 Respuesta: d. dirección = 192.168.85.128, broadcast 192.168.85.191
+
+
+#17. Una red clase C 192.168.1.0 /30, está dividida en subredes ¿cuántas
+subredes y cuantos host por subred tendrá cada una?
+Respuesta: a. 64 subredes con 2 hosts
