@@ -48,3 +48,9 @@ Respuesta: c. 255.240.0.0
 #12 . A partir de la dirección IP 172.18.71.2 /21 , ¿cuál es la dirección de subred y
 de broadcast a la que pertenece el host?
 Respuesta: d. dirección = 172.18.64.0, broadcast 172.18.71.255
+
+
+#13. Una red clase B será dividida en 20 subredes a las que se sumaran 30 más en
+los próximos años ¿Qué máscara se deberá utilizar para obtener un total de 800
+host por subred?
+Respuesta: b. 255.255.252.0
