@@ -1,0 +1,5 @@
+#1 . Su red utiliza la dirección IP 172.30.0.0/16. Inicialmente existen 25 subredes.
+Con un mínimo de 1000 hosts por subred. Se proyecta un crecimiento en los
+próximos años de un total de 55 subredes.
+¿Qué máscara de subred se deberá utilizar?
+Respuesta: C. 255.255.252.0
