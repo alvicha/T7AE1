@@ -20,3 +20,10 @@ Respuesta: B.255.255.240.0
 #5. ¿Cuáles de las siguientes subredes no pertenece a la misma red si se ha
 utilizado la máscara de subred 255.255.224.0?
 Respuesta: D.172.16.63.51
+
+
+#6. ¿Cuáles de los siguientes son direccionamientos validos clase B?
+Respuestas:
+a. 10011001.01111000.01101101.11111000
+c. 10111001.11001000.00110111.01001100
+e. 10011111.01001011.00111111.00101011
