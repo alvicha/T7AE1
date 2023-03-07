@@ -10,3 +10,8 @@ puedan establecer conectividad con Internet. Su ISP le ha asignado la dirección
 192.168.16.0/24. Se requieren 10 Subredes con 10 hosts cada una. ¿Qué máscara
 de subred debe utilizarse?
 Respuesta: C. 255.255.255.240
+
+
+#3 . Una red está dividida en 8 subredes de una clase B. ¿Qué máscara de subred
+se deberá utilizar si se pretende tener 2500 host por subred?
+Respuesta: B.255.255.240.0
